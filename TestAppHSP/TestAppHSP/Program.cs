@@ -11,11 +11,7 @@ namespace TestAppHSP
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo");
-
             Console.WriteLine("MoinBadeMeister");
-
-            Console.WriteLine("in gottes namen");
-
             Console.ReadLine();
         }
     }
